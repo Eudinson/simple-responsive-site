@@ -357,7 +357,7 @@ iframe{
     align-items: center;
     justify-content: center;
     backdrop-filter: blur(15px) contrast(1);
-    --webkit-backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
     transition: all .3s ease-in-out;
 }
 
